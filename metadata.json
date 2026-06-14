@@ -1,0 +1,6 @@
+{
+  "name": "Designer Fox",
+  "description": "Artie's virtual AI companion console. Customize, interact with, and compile Artie the Virtual Fox as a fully featured Google Chrome Extension that floats on top of any webpage you browse!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
